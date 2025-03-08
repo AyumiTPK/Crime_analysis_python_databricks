@@ -16,13 +16,13 @@ This project analyzes UK crime data using PySpark, Pandas, Matplotlib, Seaborn, 
 * NumPy
 
 ## Results
-The analysis delivers various plots and output analysis results, including:
-        * Time series plots of crime trends.
-        * Correlation matrix heatmap.
-        * Silhouette score plot for K-Means clustering.
-        * Anomaly detection plots.
-        * SARIMA model diagnostics.
-        * Crime trend forecasts.
+
+* Time series plots of crime trends.
+* Correlation matrix heatmap.
+* Silhouette score plot for K-Means clustering.
+* Anomaly detection plots.
+* SARIMA model diagnostics.
+* Crime trend forecasts.
 
 ## Key Findings
 
